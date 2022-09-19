@@ -1,0 +1,35 @@
+.calcy {
+    width: 400px;
+    height: 380px;
+    background-color: rgba(221, 208, 208, 0.815);
+    margin: 140px auto;
+    padding: 10px;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+.dbox {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 96%;
+    height: 65%;
+    padding-left: 10px;
+    background-color: #FFF;
+    color: black;
+    border: solid grey 0.5px;
+    border-radius: 5px;
+    outline: none;
+}
+#btn {
+    background-color: orangered;
+}
+
+input {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    height: 70%;
+    background-color: peru;
+    color: white;
+    border: solid black 0.5px;
+    border-radius: 5px;
+    outline: none;
+}
